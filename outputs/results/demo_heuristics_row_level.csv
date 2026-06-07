@@ -1,0 +1,3 @@
+image_filename,object_a_desc,object_b_desc,label,gap_bucket,random_balanced_pred,random_balanced_correct,lower_pixel_y_pred,lower_pixel_y_correct,higher_pixel_y_pred,higher_pixel_y_correct,larger_object_pred,larger_object_correct,left_object_pred,left_object_correct,right_object_pred,right_object_correct
+CLEVR_val_000001.png,small red rubber cube,large blue metal sphere,b_front,large,a_front,False,b_front,True,a_front,False,b_front,True,a_front,False,b_front,True
+CLEVR_val_000000.png,large red rubber cube,small blue metal sphere,a_front,large,b_front,False,a_front,True,b_front,False,a_front,True,a_front,True,b_front,False

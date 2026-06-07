@@ -1,0 +1,7 @@
+method,accuracy,n
+lower_pixel_y,1.0,2
+larger_object,1.0,2
+left_object,0.5,2
+right_object,0.5,2
+random_balanced,0.0,2
+higher_pixel_y,0.0,2
